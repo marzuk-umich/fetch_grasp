@@ -1,0 +1,12 @@
+# ninja log v5
+2	4232	1744588986957872872	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/cylinder_query_gpu.o	9a5d1607012ade29
+2	4288	1744588987014873049	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/group_points_gpu.o	7f104f768ac3d901
+3	4823	1744588987549874711	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/sampling_gpu.o	f510bcad1e1b46e2
+3	4147	1744588996056901132	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/ball_query_gpu.o	7e5f3df841fcc075
+4	4176	1744588996085901222	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/interpolate_gpu.o	ff54bd232d3e97a6
+2	7148	1744588999058910456	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/ball_query.o	6133e8f51a09e7b6
+3	7187	1744588999097910577	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/group_points.o	9dc61d4f4e36d57f
+3	7189	1744588999099910584	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/cylinder_query.o	d271c10f5a48e801
+4	7266	1744588999174910817	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/sampling.o	209be918a44953f1
+4	7290	1744588999200910897	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/interpolate.o	737166f3fe61a370
+3	9191	1744589001098916792	/root/anygrasp_sdk/pointnet2/build/temp.linux-x86_64-cpython-38/pointnet2/_ext_src/src/bindings.o	3266503d687905d2

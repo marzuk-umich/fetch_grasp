@@ -1,0 +1,15 @@
+**/__pycache__/**
+**/*.egg-info/
+*.o
+*.so
+*.egg
+.DS_Store
+.TimeRecord
+license
+# Archive files
+*.tar
+*.tar.gz
+*.tgz
+
+# Ignore saved point clouds
+saved_pcl/
